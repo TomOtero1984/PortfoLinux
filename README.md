@@ -5,3 +5,10 @@ PortfoLinux is a browser-native project that embeds a full Linux operating syste
 The process emulates a full virtual machine environment inside the browser sandbox, with memory, CPU, and file I/O handled by the emulator. A terminal interface is wired to v86’s virtual serial output, allowing users to interact with the live Linux system in real time through a browser-based terminal.
 
 No container engines. No WebAssembly tricks. Just raw Linux bootstrapped inside a browser tab.
+
+
+
+---
+
+Credits
+- [v86](https://github.com/copy/v86), PortfoLinux heavily relies on Fabian's code. 🙌
