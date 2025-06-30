@@ -1,0 +1,10 @@
+/target
+v86/
+.DS_Store
+.idea/
+build/
+dist/
+images/
+node_modules/
+package-lock.json
+Cargo.lock
